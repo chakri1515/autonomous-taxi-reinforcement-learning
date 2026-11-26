@@ -94,7 +94,7 @@ Tested values: 0.999, 0.9995, 0.9999
 Clone the repository:
 
 ```bash
-git clone https://github.com/chakri1515/autonomous-taxi-reinforcement-learning/tree/main
+git clone https://github.com/chakri1515/autonomous-taxi-reinforcement-learning.git
 ```
 
 Install the required libraries:
