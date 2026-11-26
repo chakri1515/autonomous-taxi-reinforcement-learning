@@ -80,14 +80,19 @@ Tested values: 0.999, 0.9995, 0.9999
 
 ## Training Visualisations
 
+## Training Visualisations
+
 ### Reward During Training
-![Reward](results/graphs/reward_training.png)
+![Reward Graph](results/graphs/reward_training.png)
 
 ### Timesteps During Training
-![Timesteps](results/graphs/timesteps_training.png)
+![Timesteps Graph](results/graphs/timesteps_training.png)
 
 ### Penalties During Training
-![Penalties](results/graphs/penalties_training.png)
+![Penalties Graph](results/graphs/penalties_training.png)
+
+## Animated Demonstration:
+![Autonomous Taxi Animation](results/taxi_agent_animation.gif)
 
 ## Installation
 
@@ -115,24 +120,6 @@ Open the notebook in Google Colab or Jupyter Notebook.
 ## Author
 
 CHAKRADAR REDDY KAMIDI (MSc Artificial Intelligence)
-
-## Animated Demonstration
-
-![Taxi Agent Animation](results/taxi_agent_animation.gif)
-
-## Training Graphs
-
-### Reward
-
-![Reward Graph](results/graphs/reward_training.png)
-
-### Timesteps
-
-![Timesteps Graph](results/graphs/timesteps_training.png)
-
-### Penalties
-
-![Penalties Graph](results/graphs/penalties_training.png)
 
 ## Model
 
