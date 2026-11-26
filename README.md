@@ -114,7 +114,7 @@ Open the notebook in Google Colab or Jupyter Notebook.
 
 ## Author
 
-MSc Artificial Intelligence Student
+CHAKRADAR REDDY KAMIDI (MSc Artificial Intelligence)
 
 ## Animated Demonstration
 
